@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647308360 source:c:\users\hossa\documents\project\introtoalgo\max-subarray\main.cpp
+	<iostream>
+	<vector>
+
